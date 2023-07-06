@@ -1,0 +1,94 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 20px;
+    font-family: "Audiowide", sans-serif;font-family: "Trirong", serif;
+}
+
+header{
+    text-align: center;2
+    padding: 0px;
+}
+
+
+
+main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    margin-top: 10px;
+}
+
+h2{
+margin-bottom: 1px;
+font-family: "Audiowide", sans-serif;font-family: "Trirong", serif;
+}
+
+img{
+    width: 100%;
+    height: 450px;
+}
+p{
+    margin-bottom: 1px;
+    line-height: 1.2;
+}
+.eventosbox{
+    display: flex;
+justify-content: center;
+align-items: center;
+width: 100%;
+
+}
+.eventosbox h2 {
+    text-align: center;
+    padding: 10px;
+}
+.eventos {
+    padding: 10px;
+    width: 33.33%;
+    height: 80%;
+
+}
+.eventos1 {
+    padding: 10px;
+    width: 33.33%;
+    height: 80%;
+}
+.eventos2 {
+    padding: 10px; 
+    width: 33.33%;
+    height: 80%;
+}
+.piedepagina{
+    margin-top: 90px;
+    display: flex;
+    width: 100%;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+   
+}
+.piedepagina1{
+    width: 70%;
+    text-align: center;
+   
+
+}
+.pieddepagina-titulo{
+    color: black;
+    text-shadow: 4px 2px 5px rgba(0, 0, 0, 0.381);
+    font-family: "Audiowide", sans-serif;font-family: "Trirong", serif;
+    font-size: 35px;
+}
+.piedepagina2{
+    display: flex;
+    width: 100%;
+    margin-top: 40px;
+    text-align: center;
+    justify-content: center;
+}
+a:link, a:visited, a:active {
+    text-decoration:none;
+    color: black;
+}
